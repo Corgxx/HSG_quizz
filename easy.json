@@ -1,0 +1,52 @@
+[
+    {
+        "question": "The collective of investors is risk averse. This is why all risks will be compensated with a risk premium.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "Beta is the relation between the unsystematic risk of a single asset and the risk of the market portfolio.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "Beta measures the relative systematic risk between an asset and the market.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    {
+        "question": "A risk premium is the difference between a security's return and the risk-free return.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    {
+        "question": "The standard statistical measures of the variability of stock returns are beta and covariance.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "Diversification reduces the risk of a portfolio when prices of different securities do not move exactly together.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    {
+        "question": "The portfolio risk that cannot be eliminated by diversification is called specific or idiosyncratic risk.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "The average beta of all stocks in the market is zero.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "The beta of an equally-weighted portfolio including all assets is equal to 1.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "A portfolio with a beta of one offers an expected return equal to the market risk premium.",
+        "options": ["True", "False"],
+        "answer": "True"
+    }
+]

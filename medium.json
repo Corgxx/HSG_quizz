@@ -1,0 +1,77 @@
+[
+    {
+        "question": "The company cost of capital is defined as the expected return on a portfolio of all the company’s outstanding debt and equity securities.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    {
+        "question": "The weighted average cost of capital is the discount rate for the firm’s average-risk projects.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    {
+        "question": "When estimating the weighted-average cost of capital, debt and equity enter at market value.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    {
+        "question": "The market risk premium is the difference between the return on the market and the risk-free interest rate.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    {
+        "question": "Each project, a company seeks to invest into, should be discounted by its own discount rate which considers the project’s appropriate risk.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    {
+        "question": "“Pure plays” are firms in the same line of business as the project considered, not involved in any other type of business, and privately held.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "Projects with long-term cash flows are less sensitive to changes in the risk-free rate or market risk premium.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "Unbiased forecasts of project’s cash flows incorporate all possible outcomes, including those that are specific to the project and those that stem from economywide events.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    {
+        "question": "The company cost of capital is the correct discount rate for any project a company considers, because high risks of some projects are offset by the low risk of other projects.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "Interest payments and dividends are tax deductible.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "WACC is based on a firm’s future characteristics.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "When using the WACC one assumes that risks remain unchanged for the life of the project.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    {
+        "question": "One key assumption of the APV approach is that the firm actively rebalances in order to maintain its debt ratio.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "The APV method is most useful when side-costs are numerous and important.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    {
+        "question": "There can never be more than one value of the IRR for any sequence of cash flows.",
+        "options": ["True", "False"],
+        "answer": "False"
+    }
+]
